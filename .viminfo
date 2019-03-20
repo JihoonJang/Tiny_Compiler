@@ -10,12 +10,16 @@
 # Last Search Pattern:
 ~MSle0~/int yylex()
 
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :q
 :wq
 :Wq
 
 # Search String History (newest to oldest):
+? @$
 ?/int yylex()
 ?/yylex()
 ?/yylen()
@@ -28,7 +32,9 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+""0	LINE	0
+	sdfsdfsdfsdf*/
+"1	LINE	0
 	sdfsdfsdfsdf*/
 "2	LINE	0
 			sdfsdf 
@@ -48,18 +54,19 @@
 			upper_string(tokenKind);
 
 # File marks:
-'0  94  0  ~/compiler/tiny.l
-'1  1  26  ~/compiler/test1.c
-'2  2  10  ~/compiler/test1.c
-'3  68  23  ~/compiler/tiny.l
-'4  6  0  ~/compiler/tiny.l
-'5  58  5  ~/compiler/tiny.l
-'6  2  11  ~/compiler/test1.c
-'7  53  4  ~/compiler/tiny.l
-'8  1  0  ~/compiler/test2.c
-'9  50  25  ~/compiler/tiny.l
+'0  8  0  ~/Tiny_Compiler
+'1  94  0  ~/compiler/tiny.l
+'2  1  26  ~/compiler/test1.c
+'3  2  10  ~/compiler/test1.c
+'4  68  23  ~/compiler/tiny.l
+'5  6  0  ~/compiler/tiny.l
+'6  58  5  ~/compiler/tiny.l
+'7  2  11  ~/compiler/test1.c
+'8  53  4  ~/compiler/tiny.l
+'9  1  0  ~/compiler/test2.c
 
 # Jumplist (newest first):
+-'  8  0  ~/Tiny_Compiler
 -'  94  0  ~/compiler/tiny.l
 -'  1  0  ~/compiler/tiny.l
 -'  1  26  ~/compiler/test1.c
